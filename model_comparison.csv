@@ -1,0 +1,4 @@
+,Accuracy,Macro Precision,Macro Recall,Macro F1,Total Params
+Custom_CNN,50.26,51.0,54.99,47.34,258118
+MobileNetV2_Frozen,87.63,85.51,86.54,85.81,2265670
+MobileNetV2_FineTuned,89.21,87.09,88.5,87.56,2265670
